@@ -21,4 +21,4 @@
 ---
 
 > _"Changing the world starts with transforming my surroundings."_  
-> I aim to create positive changes and contribute to a better world through my efforts.
+> I strive to help others and create positive changes in the world.<br>To achieve this, I am committed to continuously growing and refining my capabilities.
