@@ -2,7 +2,8 @@
 
 ## About Me
 - **Name**: Chunghyun Lim  
-- **Education**: Undergraduate in Computer Science & Electronic Engineering at Handong Global University (Pohang, South Korea)  
+- **Education**: Undergraduate in Computer Science & Electronic Engineering at Handong Global University (Pohang, South Korea)
+- **Motto**: _"Be the person who can provide help where help is needed."_
 
 ## What I Love
 - **Writing ✍**: Turning my thoughts and experiences into words that connect and inspire others.
@@ -14,11 +15,9 @@
 - **Electronics**: From circuits to hardware systems, I am interested in how different components work together at a fundamental level.
 
 ## Contact
-- **GitHub**: Check out my repositories and see what I’m working on.  
+- **[GitHub](https://github.com/potterLim)**: Check out my repositories and see what I’m working on.  
 - **[Blog](https://potterlim.tistory.com/)**: Read my reflections on life, books, and more.  
 - **[E-Mail](mailto:potterLim0808@gmail.com)**: Feel free to drop me a line anytime!
 
 ---
-
-> _"Changing the world starts with transforming my surroundings."_  
-> I strive to help others and create positive changes in the world.<br>To achieve this, I am committed to continuously growing and refining my capabilities.
+> _Be the person who can provide help where help is needed, and through these actions, I aspire to change the world._  
